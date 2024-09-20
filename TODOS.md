@@ -7,27 +7,27 @@
 - [x] Entender la estructura de directorios de Go
   - [x] src, pkg, bin
   - [x] Espacios de trabajo
-- [ ] Aprender el sistema de módulos de Go
-  - [ ] go mod init
-  - [ ] go.mod y go.sum
-  - [ ] Versionado semántico
-- [ ] Dominar los comandos de Go
-  - [ ] go run
-  - [ ] go build
-  - [ ] go install
-  - [ ] go test
-  - [ ] go get
-  - [ ] go fmt
-  - [ ] go vet
-- [ ] Configurar tu IDE/editor preferido
-  - [ ] VSCode con extensión Go
-  - [ ] GoLand
-  - [ ] Vim/Neovim con plugins de Go
+- [x] Aprender el sistema de módulos de Go
+  - [x] go mod init
+  - [x] go.mod y go.sum
+  - [x] Versionado semántico
+- [x] Dominar los comandos de Go
+  - [x] go run
+  - [x] go build
+  - [x] go install
+  - [x] go test
+  - [x] go get(deprecado)
+  - [x] go fmt
+  - [x] go vet
+- [x] Configurar tu IDE/editor preferido
+  - [x] VSCode con extensión Go
+  - [x] GoLand
+  - [x] Vim/Neovim con plugins de Go
 
 ## 2. Sintaxis Básica y Tipos de Datos
-- [ ] Entender la estructura del programa
-  - [ ] package main
-  - [ ] func main()
+- [x] Entender la estructura del programa
+  - [x] package main
+  - [x] func main()
 - [ ] Aprender declaración de variables
   - [ ] var nombre tipo
   - [ ] Declaración corta (:=)
